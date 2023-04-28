@@ -1,0 +1,12 @@
+.password-input-wrapper {
+    position: relative;
+  }
+  
+  .password-icon {
+    position: absolute;
+    top: 30%;
+    transform: translateY(-50%);
+    right: 345px;
+    cursor: pointer;
+  }
+  
